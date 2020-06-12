@@ -465,7 +465,7 @@ h2 ~ p {
 
   /* BLOG STYLES */
 .blog-recent {
-  /* display: none; */
+  display: none;
 }
 .blog-previews {
   padding: 0;
@@ -533,4 +533,3 @@ h2 ~ p {
    .gallery .gallery-info {
      flex: 1;
    }
-   .col-two { flex-direction: column; } .col-two .col-aside { order: 0; }
